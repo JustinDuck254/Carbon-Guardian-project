@@ -205,6 +205,7 @@ Khuyến nghị dùng **MIT License** để dễ chia sẻ và tái sử dụng.
 
 Mọi contribution đều được chào đón:
 - Tối ưu thuật toán lọc
+- Bổ sung thêm các linh kiện khác
 - Cải tiến độ chính xác
 - Nâng cấp giao diện hiển thị / dashboard
 - Thêm tính năng IoT
